@@ -1,0 +1,115 @@
+body{
+    margin: auto 20%;
+    background-color: #AAAAAA;
+}
+.colors{
+    border:2px solid gray;
+    padding: 1%;
+    min-width: 152px;
+    margin-bottom: 50px;
+    background-color: #F4F9F9;
+}
+h1{
+    font-size: 26px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+h2{
+    margin: 1%;
+    font-size: 18px;
+    font-family: 'Poppins';
+}
+.Fonts h2{
+    text-decoration: underline;
+}
+p{
+    Font-size: 14px;
+    Font-family: "Poppins"
+}
+.color1{
+    width: 30%;
+    min-width: 150px;
+    min-height: 100px;
+    background-color:#0CECDD;
+    text-align: center;
+    display:inline-block ;
+    margin: 1%;
+    
+}
+.color2{
+    width: 30%;
+    min-width: 150px;
+    min-height: 100px;
+    background-color:#FFF338;
+    text-align: center;
+    display:inline-block ;
+    margin: 1%;
+    
+}
+.color3{
+    width: 30%;
+    min-width: 150px;
+    min-height: 100px;
+    background-color:#FF67E7;
+    text-align: center;
+    display:inline-block ;
+    margin: 1%;
+    
+}
+.color4{
+    width: 30%;
+    min-width: 150px;
+    min-height: 100px;
+    background-color:#C400FF;
+    text-align: center;
+    display:inline-block ;
+    margin: 1%;
+
+}
+.Fonts{
+    border:2px solid gray;
+    padding: 1%;
+    min-width: 152px;
+    margin-bottom: 50px;
+    background-color: #CCF2F4;
+}
+.Font1{
+    width: 45%;
+    min-width: 152px;
+    min-height: 100px;
+    text-align: justify;
+    display:inline-block ;
+    margin: 1%;
+    font-family: 'Source Code Pro', monospace;
+}
+.Font2{
+    width: 45%;
+    min-width: 152px;
+    min-height: 100px;
+    text-align: justify;
+    display:inline-block ;
+    margin: 1%;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.Font3{
+    width: 50%;
+    min-width: 152px;
+    min-height: 100px;
+    text-align: justify;
+    display:inline-block ;
+    margin: 1%;
+    font-family:'Nunito Sans', sans-serif;    
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+.Style{
+    border:2px solid gray;
+    padding: 1%;
+    min-width: 152px;
+    margin-bottom: 50px;
+    background-color: #A4EBF3;
+}
